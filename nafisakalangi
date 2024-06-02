@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nafisa Kalangi - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7f9;
+            color: #333;
+        }
+        header {
+            background-color: #007bb5;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #007bb5;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .contact-info {
+            list-style: none;
+            padding: 0;
+        }
+        .contact-info li {
+            margin: 5px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #007bb5;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nafisa Kalangi</h1>
+    </header>
+    <div class="container">
+        <section class="section" id="about">
+            <h2>About Me</h2>
+            <p>Perceptive educator with a good record of accomplishment in attaining and surpassing targets during a 20-year career. Staying on top of trends in education to maintain modern, efficient systems. Meeting the needs of diverse students. Strong relationship-builder with a decisive approach to solving operational problems.</p>
+        </section>
+        <section class="section" id="experience">
+            <h2>Experience</h2>
+            <h3>Academic Coordinator - MSB Educational Institute, Kolkata, West Bengal (2020 - Current)</h3>
+            <ul>
+                <li>Conferred with educators to identify current classroom concerns and diversify instructional strategies.</li>
+                <li>Boosted effectiveness of department personnel by providing them ownership to rebalance classes, increase resource utilization, and integrate new technology.</li>
+                <li>Strengthened learning operations by aligning processes to capitalize on new educational trends.</li>
+                <li>Efficiently managed day-to-day educational operations, including lesson planning, student guidance, curriculum implementation, and continuous improvement of best practices.</li>
+                <li>Increased parent satisfaction through superior IEP meetings and family conferences to improve parent-child bonding skills.</li>
+                <li>Retained interest and maximized receptive learning through effective instructional techniques, including child-based learning and hands-on curriculum.</li>
+            </ul>
+            <h3>Head of the Section (Primary Section) - MSB Educational Institute, Kolkata, West Bengal (2012 - 2019)</h3>
+            <ul>
+                <li>Motivated teachers of my section towards CPD.</li>
+                <li>Reviewed students’ performance and assisted them to excel their own set limits.</li>
+                <li>Monitored social media and online sources for industry trends.</li>
+                <li>Devoted special emphasis to punctuality and worked to maintain an outstanding attendance record consistently arriving to work ready to start immediately.</li>
+            </ul>
+            <h3>Class Teacher - MSB Educational Institute, Kolkata, West Bengal (2007 - 2012)</h3>
+            <ul>
+                <li>English skit script writing.</li>
+                <li>Trained students for intra and inter school competitions.</li>
+                <li>Experience as school Examination Coordinator.</li>
+                <li>Experience as school activity in charge.</li>
+                <li>Used creative teaching aids.</li>
+                <li>Preferred task-based learning over talk-based learning.</li>
+                <li>Prepared student-centric lesson plans.</li>
+            </ul>
+            <h3>Administration Department - MSB Educational Institute, Kolkata, West Bengal (2002 - 2007)</h3>
+            <ul>
+                <li>Collected fees.</li>
+                <li>Maintained accounts.</li>
+                <li>Maintained file records.</li>
+                <li>Identified purchase requirements of school.</li>
+                <li>Attended to visitors.</li>
+            </ul>
+        </section>
+        <section class="section" id="education">
+            <h2>Education & Certifications</h2>
+            <p>Bachelor of Commerce, Calcutta University - South City College, Southern Avenue (1999 - 2002)</p>
+            <p>Bachelor of Education, WBUTTEPA (2017 - 2019)</p>
+            <p>Currently pursuing M.A. in Economics</p>
+            <h3>Certifications and Workshops</h3>
+            <ul>
+                <li>In-service High School Teachers Training Certificate Course by CISCE (2008)</li>
+                <li>Green Belt Certification in Career Counseling by Global Career Counsellor Certification. Pursuing Super Counsellor Programme.</li>
+                <li>English Workshop: Facilitating Participatory Learning Through Reverse Planning by Next.Education (August 2015)</li>
+                <li>Project-based Learning 101 by Education Initiatives (2017)</li>
+                <li>Teachers Training Programme on Curriculum Planning, 4MAT Lesson Plan, Multiple Intelligence, and Assessment by Dr. Vasanthi Vasudev (2016)</li>
+                <li>Teaching Creative Writing to Secondary Classes by Ms. Usha Pandit</li>
+                <li>British Council - English: Teaching the 4 Skills</li>
+                <li>British Council - Management Week: Skills for the Future I - ‘The Communicator’, ‘Unlock Your Creativity’ (2019)</li>
+                <li>Mastering Flipgrid in 5 Easy Steps by Infused Classroom (2020)</li>
+                <li>Technology in Teaching by Universal Teaching Academy (2020)</li>
+            </ul>
+        </section>
+        <section class="section" id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Team Management</li>
+                <li>Supervision</li>
+                <li>Relationship Development</li>
+                <li>Report Analysis</li>
+                <li>Records Management</li>
+                <li>Recruiting and Hiring</li>
+                <li>Written and Oral Communication</li>
+                <li>Strategic Learning Solutions</li>
+            </ul>
+        </section>
+        <section class="section" id="contact">
+            <h2>Contact</h2>
+            <ul class="contact-info">
+                <li>Email: <a href="mailto:kalanginafisa@yahoo.com">kalanginafisa@yahoo.com</a></li>
+                <li>Phone: +919903820323</li>
+                <li>Address: Kolkata, West Bengal, India</li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Nafisa Kalangi. All rights reserved.</p>
+    </footer>
+</body>
+</html>
